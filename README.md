@@ -43,7 +43,7 @@
 ---
 
 ## 📷 Foto Keren (Katanya)
-<img src="https://media.tenor.com/abcd1234abcd1234/tenor.gif" width="300" />
+<img src="https://media1.tenor.com/m/WQEbBpwzRnMAAAAd/go-youn-jung-oh-yi-young.gif" width="300" />
 
 ---
 
