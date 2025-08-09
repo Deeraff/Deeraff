@@ -43,7 +43,7 @@
 ---
 
 ## 📷 Foto Keren (Katanya)
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300" />
+<img src="[https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif](https://tenor.com/hNVLX8tTw6h.gif)" width="300" />
 
 ---
 
