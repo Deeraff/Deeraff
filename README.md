@@ -43,7 +43,7 @@
 ---
 
 ## 📷 Foto Keren (Katanya)
-<div class="tenor-gif-embed" data-postid="6413437059556656755" data-share-method="host" data-aspect-ratio="1.32857" data-width="100%"><a href="https://tenor.com/view/go-youn-jung-oh-yi-young-resident-playbook-%EA%B3%A0%EC%9C%A4%EC%A0%95-asleep-gif-6413437059556656755">Go Youn Jung Oh Yi Young GIF</a>from <a href="https://tenor.com/search/go+youn+jung-gifs">Go Youn Jung GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/hNVLX8tTw6h.gif
 
 ---
 
