@@ -43,7 +43,7 @@
 ---
 
 ## 📷 Foto Keren (Katanya)
-[https://tenor.com/hNVLX8tTw6h.gif](https://tenor.com/view/go-youn-jung-oh-yi-young-resident-playbook-고윤정-asleep-gif-6413437059556656755)
+https://tenor.com/view/go-youn-jung-oh-yi-young-resident-playbook-%EA%B3%A0%EC%9C%A4%EC%A0%95-asleep-gif-6413437059556656755
 
 ---
 
