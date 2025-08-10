@@ -1,4 +1,4 @@
-## 📷 My Moods Every Day
+<h2 align="center" style="font-size: 32px;">📷 My Moods Every Day</h2>
 
 <div align="center">
   <table>
