@@ -13,4 +13,6 @@
   </table>
 </div>
 
-<div align="center" width="100%"><img src="https://github.com/user-attachments/assets/07a27e32-3add-4dfd-8923-92d961ef9057" /></div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/07a27e32-3add-4dfd-8923-92d961ef9057" style="width: 80%; height: auto;" />
+</div>
