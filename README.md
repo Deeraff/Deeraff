@@ -1,6 +1,10 @@
 <h2 align="center" style="font-size: 32px;">📷 My Moods Every Day</h2>
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/07a27e32-3add-4dfd-8923-92d961ef9057" style="width: 80%; height: auto;" />
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td><img src="https://media1.tenor.com/m/WQEbBpwzRnMAAAAd/go-youn-jung-oh-yi-young.gif" width="200"/></td>
@@ -11,8 +15,4 @@
       <td><img src="https://media1.tenor.com/m/uVixPG50rz0AAAAC/obgyn-resident-go-younjung-resident-playbook.gif" width="200"/></td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/07a27e32-3add-4dfd-8923-92d961ef9057" style="width: 80%; height: auto;" />
 </div>
