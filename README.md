@@ -1,8 +1,8 @@
-<h2 align="center" style="font-size: 32px;">📷 My Moods Every Day</h2>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/07a27e32-3add-4dfd-8923-92d961ef9057" style="width: 80%; height: auto;" />
 </div>
+
+<h2 align="center" style="font-size: 32px;">📷 My Moods Every Day</h2>
 
 <div align="center">
   <table>
